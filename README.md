@@ -21,6 +21,7 @@ LOAD :-
 	    
    Slide Switches :-  
 			 16 Slide switches are used to load the 4 vectors AB:CD .
+			 
 START :- 
 		If the load is 00:00 then it will work as a Stopwatch and start counting else it will work as a Timer and start down counting .
 
