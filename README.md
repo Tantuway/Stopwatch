@@ -7,10 +7,15 @@ OVERVIEW
 
 	 
   A 4 digit 7segment display is used for the output ,  16 slide switches are used to load the data , and 2 push button switches are used to give the following command :
-		1) load   ( push button switch 1 )
-		2) Start  ( push button switch 2 )
-		3) Stop  ( push button switch 2 )
-		4) Reset  ( push button switch 1 )
+  
+   1) load   ( push button switch 1 )
+   
+   2) Start  ( push button switch 2 )
+   
+   3) Stop  ( push button switch 2 )
+   
+   4) Reset  ( push button switch 1 )
+		
 LOAD :- 
 		load command is given to load the data from the slide switches .
 	    
