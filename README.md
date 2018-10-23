@@ -37,7 +37,7 @@ DEBOUNCING :-
 ---
 	
   The Debouncing is done in such a way that if input from the push button is stable for more then  30ms then the debouncing module output a positive edge to the top level module .
-	For Debouncing a 10bit counter with a leastcount of 10ms is used . If the user presses the push button switch more then 1024*2*10ms (20.48sec) ( which is relatively long and not used generally   )then the module will take it as an another input .   It can be improved by using a 2flipflop state machine for getting a single output from a long press .
+	For Debouncing a 10bit counter with a leastcount of 10ms is used . If the user presses the push button switch more then 20.48sec ( which is relatively long and not used generally   )then the module will take it as an another input .   It can be improved by using a 2flipflop state machine for getting a single output from a long press .
   
 4 DIGIT 7 SEGMENT DISPLAY :-
 ---
